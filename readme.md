@@ -1,3 +1,9 @@
+# About Rlang Studies
+
+Basic grammars of R
+
+This file didn't recorded all concepts: readers should read comments of Rcodes Jupyter Notebooks also.
+
 # RLang
 
 * Pro: performance
@@ -69,3 +75,11 @@ function grammar forms are simillar to Excel, but name could be diff
 ## Basic Data Manipulation
 
 ## Analysis
+
+### ggplot2
+
+Layer Structures(from lower layer)
+
+* Axis
+* Kinds of Graphs
+* Visual Settings
